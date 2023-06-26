@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Thyemi Mello 👋
 
 - 🦉 Junior Web Developer
-- 💬 Me pergunte sobre JavaScript, HTML, CSS, SQL, NodeJS, React, Express, Python
+- 💻 Full Stark 
 - 😄 Pronouns: ela/dela
 
 <div align="center" gap='1px'>
