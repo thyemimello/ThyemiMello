@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thyemi Mello 👋
 
-- 🦉 Junior Web Developer
+
 - 💻 Full Stark 
 - 😄 Pronouns: ela/dela
 
